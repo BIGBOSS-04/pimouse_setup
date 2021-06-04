@@ -1,5 +1,5 @@
 #!/bin/bash -xve
-
+#written by R. ueda
 exec 2> /tmp/setup.log
 
 cd /home/ubuntu/RaspberryPIMouse/src/drivers/
